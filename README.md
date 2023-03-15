@@ -13,20 +13,18 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](go.png)
 
 A simple Graduation booking application I have built as a beginner to Golang. This app runs in thr CLI only
 ## Built With
 love with GO
-T
+
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 
 Clone the repo
 
