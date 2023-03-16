@@ -15,7 +15,7 @@
 
 ![Screen Shot](go.png)
 
-A simple Graduation booking application I have built as a beginner to Golang. This app runs in thr CLI only
+A simple Graduation booking application I have built as a beginner to Golang. This app runs in the CLI only
 ## Built With
 love with GO
 
